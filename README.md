@@ -1,8 +1,9 @@
-# Google Colaboratory General Usage
-Just general cases that I have faced with as an error while running my codes in Google Co-lab
+# TensorFlow_Workshops_Colab_General_Usage
 
-I will share my colab codes here
+I did not share much of my work yet here, I am tidying out my repository soon.
 
-They will be all for Python 3
+Just added general cases that I have faced with as an error while running my codes in Google Co-lab
 
-Text me for any problem
+Contact me for any problem
+
+Onurcan Köken
